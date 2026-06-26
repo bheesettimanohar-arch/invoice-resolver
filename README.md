@@ -43,7 +43,8 @@ graph TD
 
 
 ### Workflow Diagram
-![Workflow Diagram](file:///c:/Users/manoh/OneDrive/Documents/adk-work%20space/invoice-resolver/assets/architecture_diagram.png)
+![Workflow Diagram]<img width="420" height="416" alt="Screenshot 2026-06-26 102307" src="https://github.com/user-attachments/assets/be550553-7886-4fc1-a94d-da04275d76f7" />
+
 
 ## How to Run
 * **Playground Mode**: Run `make playground` (or `uv run adk web app --host 127.0.0.1 --port 18081` on Windows) to open the interactive developer interface at `http://localhost:18081`.
