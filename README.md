@@ -39,7 +39,8 @@ graph TD
 ## Assets
 
 ### Project Banner
-![Cover Page Banner](file:///c:/Users/manoh/OneDrive/Documents/adk-work%20space/invoice-resolver/assets/cover_page_banner.png)
+![Cover Page Banner]<img width="846" height="853" alt="Screenshot 2026-06-26 102142" src="https://github.com/user-attachments/assets/9d2bf176-bb3f-4d62-8c7f-cb72999fc9e7" />
+
 
 ### Workflow Diagram
 ![Workflow Diagram](file:///c:/Users/manoh/OneDrive/Documents/adk-work%20space/invoice-resolver/assets/architecture_diagram.png)
