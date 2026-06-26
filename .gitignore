@@ -216,3 +216,5 @@ terraform.tfstate.backup
 *.tfvars
 artifacts/
 
+
+.vercel
