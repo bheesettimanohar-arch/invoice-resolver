@@ -101,7 +101,7 @@ asyncio_default_fixture_loop_scope = "function"
 packages = ["app","frontend"]
 
 [tool.vercel]
-entrypoint = "app.__init__:app"
+entrypoint = "main:app"
 
 
 
